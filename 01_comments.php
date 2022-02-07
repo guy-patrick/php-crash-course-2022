@@ -1,7 +1,9 @@
 <?php
-// comments here !
-/* This is a 
-multi line comment
-*/
-// This is a single line comment 
-# This one is also a comment type !
+// These are the three ways to add comments to a PHP file
+
+// This is obviously the first one - single line
+# Second type of single line comment
+
+/* This one is a multi line
+comment as 
+you see */
